@@ -37,6 +37,8 @@
 #include "api.h"
 #include "lemlib/api.hpp"
 #include "devices.h"
+#include <bits/stdc++.h>
+
 /**
  * You should add more #includes here
  */
